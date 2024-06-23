@@ -1,4 +1,4 @@
-# Modelink Frontend
+# Modelink
 
 ## Description
 
@@ -13,7 +13,7 @@ Ce projet est une landing page pour Modelink, développée avec Next.js et conte
 
 1. Clonez le dépôt :
     ```bash
-    git clone <URL_DU_DEPOT>
+    git clone <https://github.com/Arzoter/modelink>
     cd modelink
     ```
 
